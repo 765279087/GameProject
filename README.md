@@ -1,7 +1,6 @@
 # 小组游戏项目
 
-A game project developed with Unreal Engine 5.1.0
+使用 Unreal Engine 5.1.0 开发的项目
 
-<img src="https://user-images.githubusercontent.com/85596127/204088118-880b3710-cc29-4123-ba88-6025235ed9ac.jpg" style="zoom:20%;" />
-
-项目目前还没有完成
+目前此项目已经迁移至项目"765279087/LULLABYDemo"中进行维护。
+请到"765279087/LULLABYDemo"项目中查看
